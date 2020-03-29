@@ -1,0 +1,58 @@
+header {
+    background-color: gray;
+  }
+  aside {
+    background-color:gray;
+  }
+  #c {
+    background-color: gray;
+  }
+  #d{
+    background-color: gray;
+  }
+  #e {
+    background-color: gray;
+  }
+  #f {
+    background-color: grey;
+  }
+  .g {
+    background-color: gray;
+  }
+  .h {
+    background-color: gray;
+  }
+  .i {
+    background-color: gray;
+  }
+  
+  
+  @media(min-width: 768px){
+    header {
+      background-color: gray;
+    }
+    aside {
+      background-color: gray;
+    }
+    #c {
+      background-color: gray;
+    }
+    #d{
+      background-color: gray;
+    }
+    #e {
+      background-color: gray;
+    }
+    #f {
+      background-color: gray;
+    }
+    .g {
+      background-color: gray;
+    }
+    .h {
+      background-color: gray;
+    }
+    .i {
+      background-color: gray;
+    }
+  }
